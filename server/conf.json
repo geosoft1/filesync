@@ -1,6 +1,6 @@
 {
 	"ip":"",
 	"port":"8080",
-	"path":"/usr/src",
+	"path":"files",
 	"synctime":"2"
 }
