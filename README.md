@@ -41,4 +41,4 @@ Sync time represent the period measured in seconds until the next sincronization
 
 Note that smaller sync time value will not override a sync in progress.
 
-**Known issue** Big number of files (tens of thousands) can overload the processor by numbering. So, keep the number of files in a reasonable quantity.
+**Known issue:** Big number of files (tens of thousands) can overload the processor by numbering. So, keep the number of files in a reasonable quantity.
