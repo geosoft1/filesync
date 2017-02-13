@@ -122,8 +122,6 @@ func DownloadFiles(addr string, path string, filelist *[]string) {
 }
 
 func main() {
-	//runtime.GOMAXPROCS(runtime.NumCPU())
-
 	log.Print("init logger")
 	log.SetFlags(log.Ldate | log.Ltime | log.Lshortfile)
 
