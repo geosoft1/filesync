@@ -27,7 +27,7 @@ import (
 	"time"
 )
 
-type Configuration struct {
+type Config struct {
 	Ip       string `json:"ip"`
 	Port     string `json:"port"`
 	Path     string `json:"path"`
@@ -35,7 +35,7 @@ type Configuration struct {
 	Addr     string
 }
 
-var c Configuration
+var c Config
 var pwd string
 var err error
 
